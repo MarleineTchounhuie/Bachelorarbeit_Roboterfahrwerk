@@ -26,9 +26,7 @@ class Motor
 	public :
 	/*
 	 *  Wir haben einen standard-Konstrukter mit Standartwerten
-	 *  Ein integer Wert wird an der Methode move übergeben. Falls der Wert positiv ist , dreht
-	 *  sich der Motor vorwärts. Falls der Wert negativ ist , dreht sich der Motor rückwärts.
-	 *  Falls der Wert zwischen -70 und 70 liegt , dreht sich der Motor nicht.
+	 *  Ein integer Wert wird an der Methode move übergeben.
 	 *  Die Getter und Setter von allen Variablen wurden einfach generiert.
 	 */
 
